@@ -1,2 +1,4 @@
-# NER_with_BERT
+# NER with BERT
 NER with BERT model
+
+Medium link for the explanation : [insert the link here]
